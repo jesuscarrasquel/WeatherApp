@@ -1,0 +1,15 @@
+.daysWeather {
+  color: gray;
+
+  .daysWeather__wrapper {
+    height: 100%;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    .daysWeather__title h2 {
+      font-weight: 300;
+    }
+  }
+}
